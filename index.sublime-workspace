@@ -1,0 +1,669 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"filename2"
+			],
+			[
+				"get",
+				"get_time"
+			],
+			[
+				"out",
+				"output_redirection"
+			],
+			[
+				"to",
+				"tokenized"
+			],
+			[
+				"input",
+				"input_redirection"
+			],
+			[
+				"S",
+				"_SC_CLK_TCK"
+			],
+			[
+				"tota",
+				"total_user_time"
+			],
+			[
+				"tot",
+				"total_system_time"
+			],
+			[
+				"sys",
+				"sysconf"
+			],
+			[
+				"inp",
+				"inputRedirection"
+			],
+			[
+				"temp",
+				"temptotals"
+			],
+			[
+				"thre",
+				"threekind"
+			],
+			[
+				"large",
+				"largestraight"
+			],
+			[
+				"small",
+				"smallstraight"
+			],
+			[
+				"my_",
+				"my_nextfit_malloc"
+			],
+			[
+				"string",
+				"stringbuff"
+			],
+			[
+				"str",
+				"stringbuff"
+			],
+			[
+				"c",
+				"char"
+			],
+			[
+				"de",
+				"dealer_card"
+			],
+			[
+				"dealer",
+				"dealer_card"
+			],
+			[
+				"dea",
+				"dealer_total"
+			],
+			[
+				"us",
+				"user_stand"
+			],
+			[
+				"user",
+				"user_stand"
+			],
+			[
+				"deal",
+				"dealer_total"
+			],
+			[
+				"num_",
+				"num_aces_user"
+			],
+			[
+				"num_ac",
+				"num_aces_dealer"
+			],
+			[
+				"r",
+				"reverser"
+			],
+			[
+				"Ternary",
+				"TernaryTreeInterface"
+			],
+			[
+				"canAdv",
+				"canAdvanceToLeft"
+			],
+			[
+				"B",
+				"BinaryNode"
+			],
+			[
+				"comp",
+				"composites"
+			],
+			[
+				"compos",
+				"compositesIter"
+			],
+			[
+				"can",
+				"candidates"
+			],
+			[
+				"candi",
+				"candidateIter"
+			],
+			[
+				"compo",
+				"compositesIter"
+			],
+			[
+				"testIs",
+				"testIsFullSolutionUnit"
+			],
+			[
+				"testI",
+				"testIsFullSolutionUnit"
+			],
+			[
+				"test",
+				"testRejectUnit"
+			],
+			[
+				"testE",
+				"testExtend"
+			],
+			[
+				"testEx",
+				"testExtendUnit"
+			],
+			[
+				"testRe",
+				"testRejectUnit"
+			],
+			[
+				"partal",
+				"partialSolution"
+			],
+			[
+				"set",
+				"setNextCoupon"
+			],
+			[
+				"next",
+				"nextCoupon"
+			],
+			[
+				"version",
+				"version2QuickSort"
+			],
+			[
+				"partial",
+				"partialSolution"
+			],
+			[
+				"num",
+				"numOfCoupons"
+			],
+			[
+				"end",
+				"endStatistics"
+			],
+			[
+				"min",
+				"minComparisons"
+			],
+			[
+				"SortA",
+				"SortArrayInstrumented"
+			],
+			[
+				"edit",
+				"editProfile"
+			],
+			[
+				"si",
+				"simulationStep"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"tem",
+				"tempDem"
+			],
+			[
+				"te",
+				"tempDem"
+			],
+			[
+				"nu",
+				"numerator"
+			],
+			[
+				"Pu",
+				"Population"
+			],
+			[
+				"sta",
+				"startingSize"
+			],
+			[
+				"Soft",
+				"SoftwareHouse"
+			],
+			[
+				"Sof",
+				"SoftwareHouse"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"count",
+				"countValues"
+			],
+			[
+				"buying",
+				"buyingPrice"
+			],
+			[
+				"pric",
+				"priceInput"
+			],
+			[
+				"In",
+				"InputMismatchException"
+			],
+			[
+				"File",
+				"FileNotFoundException"
+			],
+			[
+				"curre",
+				"currentBalance"
+			],
+			[
+				"ne",
+				"nextDouble"
+			],
+			[
+				"in",
+				"inputPkg"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"ls",
+			"h"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Final Year/CS1520/InClassOne/inClassOne/index.html",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/Sem2/CS449/project4/dice_driver.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Final Year/CS1550/project1/library.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/Sem2/CS449/project3/mymalloc.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Final Year/CS1520/assignment1/assignment1.html",
+		"/Users/corytrbojevic/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/Sem2/CS449/project3/mallocdriver.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/Sem2/CS449/project5/myshell.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project5/myshell.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project5/testprogram.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/threadlab/mythreads.c",
+		"/Users/corytrbojevic/Documents/workspace/MyKeyGen/pubkey.rsa",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/hello.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/myprog.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project4/yahtzee.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project4/dice_driver.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project4/testread.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project4/yahtzee2.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/Makefile",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/hello.h",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project1/id3tagEd.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project1/blackjack.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project3/mallocdriver.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project3/mymalloc.c",
+		"/Users/corytrbojevic/Google Drive/Documents/javascripting/string-length.js",
+		"/Users/corytrbojevic/Google Drive/Documents/javascripting/strings.js",
+		"/Users/corytrbojevic/Google Drive/Documents/javascripting/variables.js",
+		"/Users/corytrbojevic/Google Drive/Documents/javascripting/introduction.js",
+		"/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/sys/syscall.h",
+		"/usr/include/stdlib.h",
+		"/usr/include/xlocale/_stdlib.h",
+		"/Users/corytrbojevic/Desktop/leak.c",
+		"/Users/corytrbojevic/Desktop/very-buggy.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project3/mallocdrv.c",
+		"/Users/corytrbojevic/Desktop/Desktop",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS1501/Assignment3/assignment3-coryMT/documentation.txt",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project3/README.txt",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project3/mymalloc.h",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/linkedlistlab/linkedlist.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project2/mystrings.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project3/my_nextfit_malloc.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project2/mystrings2.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project2/test2.txt",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project2/assembly3",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS1501/Assignment2/assignment2-coryMT/compress.txt",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS1501/Tester.java",
+		"/Users/corytrbojevic/Desktop/Geo/Geo-News/README.md",
+		"/Users/corytrbojevic/Desktop/Geo/Geo-News/public/js/maps.js",
+		"/Users/corytrbojevic/Desktop/Geo/Geo-News/public/js/newsrequest.js",
+		"/Users/corytrbojevic/Desktop/Geo/Geo-News/index.html",
+		"/Users/corytrbojevic/Desktop/Geo/Geo-News/public/stylesheets/style.css",
+		"/Users/corytrbojevic/Desktop/Geo/Geo-News/views/index.jade",
+		"/Users/corytrbojevic/Desktop/Geo/Geo-News/public/js/custom_angular.js",
+		"/Users/corytrbojevic/Desktop/Geo/Geo-News/package.json",
+		"/Users/corytrbojevic/Desktop/Geo/Geo-News/app.js",
+		"/Users/corytrbojevic/Desktop/Geo/Geo-News/routes/index.js",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS1501/Assignment2/assignment1-coryMT/README.md",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project1/id3tagEdv5.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project1/id3tagEdv2.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/project1/id3tagEdv3.c",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS1501/Assignment2/assignment1-coryMT/pw_check.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS1501/Assignment2/assignment1-coryMT/ListNode.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS1501/Assignment2/assignment1-coryMT/DLBTrie.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/Sem1/CS 445/Assignment3/FriendsCouponv2.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/Sem1/CS 445/Assignment3/FriendsCoupon.java",
+		"/Users/corytrbojevic/Desktop/test.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/Sem1/CS 445/Assignment5/TernaryTree.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/Sem1/CS 445/Assignment5/TernaryNode.java",
+		"/System/Library/Frameworks/WebKit.framework/Versions/A/Headers/nptypes.h",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS449/helloworld.c",
+		"/Users/corytrbojevic/Library/Application Support/Sublime Text 3/Packages/User/C.sublime-build",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/ExamPractice/RecurseStars.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/ExamPractice/BackwardArray.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment5/Tester.java",
+		"/Users/corytrbojevic/Downloads/a5binary/BinaryTree.java",
+		"/Users/corytrbojevic/Downloads/a5binary/BinaryNode.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment5/TernaryTreeInterface.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment5/TernaryTree.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment5/TernaryNode.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment5/EmptyTreeException.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment5/TreeInterface.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment5/TreeIteratorInterface.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab11/QueuePackage/SimulationEventQueue.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab11/QueuePackage/SimulationEvent.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab11/QueuePackage/SimulationEventInterface.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment3/FriendsCoupon.java",
+		"/Users/corytrbojevic/Downloads/SourceCodeForReaders4e-2/30Chapter23/23.28/GuessingGame.java",
+		"/Users/corytrbojevic/Downloads/SourceCodeForReaders4e-2/30Chapter23/23.21.java",
+		"/Users/corytrbojevic/Downloads/SourceCodeForReaders4e-2/28Chapter21/21.8.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab19/TreePackage/BinaryTree.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab19/TreePackage/BinaryNode.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab19/TreePackage/BinaryTreeAccessInterface.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/videoengine/VideoEngine.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/videoengine/Video.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/videoengine/User.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/videoengine/TvSeries.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/videoengine/TvEpisode.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/videoengine/Film.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/VideoEngine.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab14/Subsequence.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab14/Primes.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab14/ListWithIteratorInterface.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab14/ListInterface.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab14/CountingGame.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab14/ArrayListWithIterator.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/Video.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/TvSeries.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/User.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/Film.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment 4/a4interfaces/TvEpisode.java",
+		"/Users/corytrbojevic/Library/Application Support/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/Users/corytrbojevic/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/corytrbojevic/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/corytrbojevic/Google Drive/Documents/slimmold2.jpg",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab13/LList.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab13/ListInterface.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab13/LinkedListExtensionsTest.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab13/ArrayListExtensionsTest.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab13/AList.java",
+		"/Users/corytrbojevic/Desktop/tester.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/Assignment3/FriendsCouponv2.java",
+		"/Users/corytrbojevic/Desktop/FriendsCouponv2.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab12/AList.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab12/CountingGame.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab9/TimeSort.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab9/SortArray.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab9/CheckKth.java",
+		"/Users/corytrbojevic/Google Drive/Documents/Pitt Senior/CS 445/lab9/CheckSort.java"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"random",
+			"while(0)",
+			"cards",
+			"myNode",
+			"%p",
+			"%d",
+			"Node",
+			"prev",
+			"nextnode",
+			"myFile",
+			"myField",
+			"oneMore",
+			"foundNext",
+			"com.cs445.ternarytree.",
+			"position",
+			">>();\n",
+			"extended",
+			"StdOut",
+			"0",
+			"protected",
+			"private",
+			"invalid",
+			"System.out.print",
+			"l4",
+			"l3",
+			"l2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
