@@ -1,3 +1,54 @@
 body, html {
-  font-size: 12px;
+  font-size: 75%;
+  font-family: Arial;
+  background-color: powderblue;
 }
+
+header {
+	text-align: center;
+}
+
+.par1 {
+	color: purple;
+}
+
+.par2 {
+	color: gold;
+}
+
+.par2 {
+	color: red;
+}
+
+nav ul {
+	list-style: none;
+	margin-right: 20px;
+}
+
+nav ul li {
+	display: inline-block;
+	font-size: 1.2rem;
+}
+
+p img {
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin: 10px 10px 10px 10px;
+}
+
+a img {
+	width: 30px;
+	height: 30px;
+}
+
+fieldset {
+	text-align: center;
+}
+
+input:focus {
+	background-color: grey;
+}
+
+#musicLabel {
+	color: green;}
